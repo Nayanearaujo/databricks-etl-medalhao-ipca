@@ -1,4 +1,4 @@
-# 🚀 Lakehouse ETL Pipeline: IPCA vs. Commodities Agropecuárias
+# Lakehouse ETL Pipeline: IPCA vs. Commodities Agropecuárias
 
 Pipeline de Engenharia de Dados em larga escala no Databricks utilizando Apache Spark, PySpark, Delta Lake e Unity Catalog sob a Arquitetura Medalhão (Bronze, Silver e Gold).
 
